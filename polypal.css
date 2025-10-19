@@ -644,7 +644,7 @@ h3{
   font-size: 5em;
   position: relative;
   top: -280px;
-  left: 380px;
+  left: 480px;
   
 }
 .category{
@@ -910,5 +910,6 @@ img, .logo-icon, #startlogo, #logo2, #greet-img, #word-img, #flash-img { max-wid
 @media (max-width: 768px) {
   :focus { outline: 3px solid rgba(0, 123, 255, 0.25); }
 }
+
 
 /* End of responsive overrides */
