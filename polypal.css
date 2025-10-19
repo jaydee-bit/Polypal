@@ -644,7 +644,7 @@ h3{
   font-size: 5em;
   position: relative;
   top: -280px;
-  left: 380px;
+  left: 500px;
   
 }
 .category{
@@ -913,4 +913,5 @@ img, .logo-icon, #startlogo, #logo2, #greet-img, #word-img, #flash-img { max-wid
 
 
 /* End of responsive overrides */
+
 
